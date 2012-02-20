@@ -1,0 +1,7 @@
+These are the core files of the mygine. Currently containing:
+
++ Gameloop: act as the states hub for the applications. Allows switching
+            between states and providing the interval input.
++ Modules:  the interface and the abstract modules allows creation of
+            modules to use in the gameloop.
++ DemoModule: an module implementation, showing the capability of the appl.

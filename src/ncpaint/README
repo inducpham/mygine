@@ -1,0 +1,3 @@
+This module provide tools to quickly create mockups of ncurses application.
+
+Support keyboard control, save/load/view mode

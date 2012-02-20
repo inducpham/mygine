@@ -1,0 +1,17 @@
+Mygine - the NCurses wrapper game engine
+======================================================
+
+Mygine provides the following:
+
+	+ State pattern control.
+	+ Direct use of ncurses library
+	+ Interval based event (1/10 seconds)
+	+ A simple example on how mygine is executed
+
+======================================================
+
+Todolist for Mygine:
+
+	+ Actually find a scope for Mygine to focus into
+	+ Conduct experiments and tests
+	+ Optimize the engine for the specific genre
